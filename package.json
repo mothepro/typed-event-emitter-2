@@ -1,6 +1,6 @@
 {
   "name": "typed-event-emitter-2",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "A Strongly Typed version of Node's EventEmitter.",
   "main": "index.js",
   "scripts": {
