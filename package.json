@@ -1,0 +1,24 @@
+{
+  "name": "typed-event-emitter-2",
+  "version": "0.0.0",
+  "description": "A Strongly Typed version of Node's EventEmitter.",
+  "main": "index.js",
+  "scripts": {
+    "test": "tsc",
+    "prepublish": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mothepro/typed-event-emitter.git"
+  },
+  "author": {
+    "name": "Maurice Prosper",
+    "url": "https://mauriceprosper.com/",
+    "email": "mothepro@live.com"
+  },
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^8.0.50",
+    "typescript": "^2.6.1"
+  }
+}
